@@ -73,7 +73,7 @@ apt install git
 cd /root
 ```
 ```bash
-git clone https://github.com/cleitonme/Whazing-SaaS.instalador.git whazinginstalador
+git clone https://github.com/NixT-sys/2.8.10.git whazinginstalador
 ```
 ```bash
 sudo chmod +x ./whazinginstalador/whazing
